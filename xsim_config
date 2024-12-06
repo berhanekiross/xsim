@@ -1,0 +1,6 @@
+#ifndef XSIM_EXPORT
+    #define XSIM_EXPORT
+#endif
+
+typedef double simtime;
+
